@@ -55,7 +55,7 @@
                   <i class="lnr lnr-rocket"></i>
                 </span>
                 <div class="text">
-                feowfmklksdflksdfw
+                feowfmklksdflksdfwㄹㄷㅈㄹㄹㄴㅇㄹ
                   <h4>반려동물 인구 1000만 시대</h4>
                   <p>반려동물 시장규모는 2027년까지 6조원까지</p>
                 </div>
