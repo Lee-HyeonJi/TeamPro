@@ -128,5 +128,8 @@ public class BackendController {
 		return "backend/statistics/Charts";
 	}
 	
-	
+	@RequestMapping("Report.do")
+	public String goReport() {
+		return "backend/report/ReportHome";
+	}
 }
