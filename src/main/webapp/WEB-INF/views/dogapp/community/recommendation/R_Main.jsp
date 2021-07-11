@@ -83,7 +83,7 @@
 			
 					              	<div class="drawingMap" id="drawingMap${loop.index}"></div>
 					              	<div>욱이 바보</div>
-					              	<div>12</div>
+					              	<div>123</div>
 					              <div class="blog-item-text btnView" id="btnView&${item.R_NO }" style="text-align: center; padding-top: 10px;"> 
 					                <p style="color: black; font-size: 1.5em;">${item.R_TITLE }</p>
 					                <span style="color:black">시작지:${item.R_CLICKLINEA }</span><br/>
