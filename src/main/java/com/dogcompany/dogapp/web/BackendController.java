@@ -131,6 +131,8 @@ public class BackendController {
 	@RequestMapping("Report.do")
 	public String goReport() {
 		System.out.println("허욱 허욱");
+		System.out.println("허욱 허욱");
+		System.out.println("허욱 허욱");
 		return "backend/report/ReportHome";
 	}
 }
